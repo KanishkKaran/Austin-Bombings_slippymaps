@@ -2,5 +2,5 @@
 
 
 ### Assignment
-This was a part of an assignment in Data class. I am still tweaking it. 
+This was a part of an assignment in data class. I am still tweaking it. 
 Your suggestions/improvements are welcome
